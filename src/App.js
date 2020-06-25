@@ -1,7 +1,7 @@
 import React from 'react';
 import menu from './menu';
-import ItemCard from './itemCard/itemCard'
-import Button from './button/button'
+import ItemCard from './components/itemCard'
+import Button from './components/button'
 import './App.css';
 
 console.log(menu)
